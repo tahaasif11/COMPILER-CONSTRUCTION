@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int123=112;
+inta;
+_ta12
+>==<;
+<= =>;
+= >
+}
